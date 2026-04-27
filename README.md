@@ -12,7 +12,8 @@ Selected Algorithms:
 
 3.Binary Search (Searching)
 
-Algorithm Descriptions:
+
+B. Algorithm Descriptions:
 
 1. Bubble Sort
 
@@ -74,7 +75,7 @@ Measurement Tool:
 
  - System.nanoTime() was used to calculate execution time
 
-Experimental Results:
+C. Experimental Results:
 
 | Size | Input Type | Bubble Sort | Merge Sort | Binary Search |
 |------|-----------|-------------|------------|---------------|
@@ -124,11 +125,11 @@ Binary Search relies on ordering to decide whether to search the left or right h
 
 
    
-Screenshots:
+D. Screenshots:
 ![screen1](docs/screenshots/screen1.png)
 ![screen2](docs/screenshots/screen2.png)
 
-Reflection section:
+E. Reflection section:
 
 Through this assignment, I learned how different algorithms behave under various conditions and input sizes. It became clear that theoretical complexity directly impacts practical performance, especially for large datasets.
 
